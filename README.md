@@ -11,10 +11,10 @@
 
 # My Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=sachie&hide=issues,contribs&count_private=true)](https://github.com/sachie)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=sachie&hide=issues,contribs&count_private=true)](https://github.com/sachie?tab=repositories)
 
 
-[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachie&layout=compact&hide=java)](https://github.com/sachie)
+[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachie&layout=compact&hide=java)](https://github.com/sachie#js-contribution-activity)
 
 <!---
 sachie/sachie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
