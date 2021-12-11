@@ -17,6 +17,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-quickstart)](https://github.com/sachie/react-quickstart)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-checkbox-tree-example)](https://github.com/sachie/react-checkbox-tree-example)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=vanilla-framework-example)](https://github.com/sachie/vanilla-framework-example)
 
 # My Stats
 
