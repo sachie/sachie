@@ -16,8 +16,8 @@
 
 # Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-quickstart)](https://github.com/sachie/react-quickstart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-checkbox-tree-example)](https://github.com/sachie/react-checkbox-tree-example)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-quickstart&theme=dark&hide_border=true)](https://github.com/sachie/react-quickstart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-checkbox-tree-example&theme=dark&hide_border=true)](https://github.com/sachie/react-checkbox-tree-example)
 
 <!--- Need to do this: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 # Stats
