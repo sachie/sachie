@@ -14,18 +14,18 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)]()
 - 📫 You can reach me at sachindra.ariyasinghe@gmail.com or [linkedin.com/in/sachindra-a/](https://www.linkedin.com/in/sachindra-a/)
 
-# Example projects
+# Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-quickstart)](https://github.com/sachie/react-quickstart)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-checkbox-tree-example)](https://github.com/sachie/react-checkbox-tree-example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=vanilla-framework-example)](https://github.com/sachie/vanilla-framework-example)
 
-# My Stats
+<!--- Need to do this: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+# Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=sachie&hide=issues,contribs&count_private=true)](https://github.com/sachie?tab=repositories)
 
-
 [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachie&layout=compact&hide=java)](https://github.com/sachie#js-contribution-activity)
+--->
 
 <!---
 sachie/sachie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
