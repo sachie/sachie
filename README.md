@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hello, I’m Sachie
+- 👋 Hello, I’m Sachindra (Sachie) Ariyasinghe, from Toronto, Canada.
 - 👀 I’m interested in software development, architecture, and people management.
 
   [![React](https://img.shields.io/badge/React-20232A?logo=react&color=blue&logoColor=white)]()
