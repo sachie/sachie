@@ -1,9 +1,10 @@
 # About Me
 
-- 👋 Hello, I’m Sachindra (Sachie) Ariyasinghe, from Toronto, Canada.
+- 👋 Hello, I’m Sachindra (Sachie) Ariyasinghe, from Toronto, ON, Canada.
 - 👀 I’m interested in software development, architecture, and people management.
 
   [![React](https://img.shields.io/badge/React-20232A?logo=react&color=blue&logoColor=white)]()
+  [![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&color=181818)]()
   [![Graphql](https://img.shields.io/badge/Graphql-20232A?logo=graphql&color=E10098&logoColor=white)]()
   [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)]()
   [![Node](https://img.shields.io/badge/Node.js-43853D?logo=nodedotjs&logoColor=white)]()
@@ -12,22 +13,5 @@
   [![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)]()
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)]()
   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)]()
+  
 - 📫 You can reach me at sachindra.ariyasinghe@gmail.com or [linkedin.com/in/sachindra-a/](https://www.linkedin.com/in/sachindra-a/)
-
-# Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-quickstart&theme=dark&hide_border=true)](https://github.com/sachie/react-quickstart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachie&repo=react-checkbox-tree-example&theme=dark&hide_border=true)](https://github.com/sachie/react-checkbox-tree-example)
-
-<!--- Need to do this: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-# Stats
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=sachie&hide=issues,contribs&count_private=true)](https://github.com/sachie?tab=repositories)
-
-[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachie&layout=compact&hide=java)](https://github.com/sachie#js-contribution-activity)
---->
-
-<!---
-sachie/sachie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
